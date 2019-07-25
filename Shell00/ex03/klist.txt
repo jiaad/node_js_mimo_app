@@ -1,0 +1,6 @@
+Credentials cache: API:E992B3BE-D360-48BF-BBE1-691A07DE6D76
+        Principal: daye@42.FR
+
+  Issued                Expires               Principal
+Jul  4 18:47:36 2019  Jul 11 18:47:36 2019  krbtgt/42.FR@42.FR
+Jul  4 18:55:47 2019  Jul 11 18:47:36 2019  host/vgs-fn1.42.fr@42.FR
